@@ -1,0 +1,4 @@
+order_id,customer_id,product,amount,order_date
+1,101,Laptop,750.00,2025-08-25
+2,102,Headphones,120.00,2025-08-25
+3,101,Mouse,25.00,2025-08-25
